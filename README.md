@@ -1,4 +1,4 @@
-### Hi there, I'm Yanushan! 👋  
+### Hi there, I'm Yanushanth! 👋  
 
 🚀 **Aspiring Cybersecurity & Network Engineer** | Open-Source Enthusiast | Web & App Developer  
 
