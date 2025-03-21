@@ -46,20 +46,12 @@ TailwindCSS | PHP | MySQL | Git | Docker | Kubernetes | Bash
 
 ---
 
-### 📌 Contributions & Snake Animation
-
-<p align="center">
-  <img src="https://github.com/Yanushanth-Rv/Yanushanth-Rv/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🌍 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/Yanushanth-Rv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/Yanushanth-Rv" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ths.is.yanushanth2k@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
