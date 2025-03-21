@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yanushanth-Rv/Yanushanth-Rv/main/banner-network-engineer.png" alt="Network Engineer Banner" />
+  <img src="https://raw.githubusercontent.com/Yanushanth-Rv/Yanushanth-Rv/main/baner-network-engineer.png" alt="Network Engineer Banner" />
 </p>
 
 ### Hi there, I'm Yanushanth! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
