@@ -46,6 +46,29 @@ TailwindCSS | PHP | MySQL | Git | Docker | Kubernetes | Bash
 
 ---
 
+### 🎯 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yanushanth-Rv&theme=gruvbox&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔐 **Cybersecurity Lab** - Hands-on penetration testing & security research
+- 🌐 **Web App Security** - Developing secure full-stack applications
+- 📱 **Mobile App Development** - Experimenting with cross-platform frameworks
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YouTube Cards -->
+[![YouTube](https://github-readme-youtube-stats.vercel.app/api/video?channel=UC-YOUR-CHANNEL-ID&layout=compact&theme=light)](https://www.youtube.com/channel/UC-YOUR-CHANNEL-ID)
+
+---
+
 ### 🌍 Connect with Me
 
 <p align="left">
