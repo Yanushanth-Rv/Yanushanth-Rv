@@ -31,8 +31,8 @@
 ### 🛠️ Technologies & Tools
 
 ```
-Linux | Python | HTML | CSS | JavaScript | React | Node.js 
-TailwindCSS | PHP | MySQL | Git | Docker | Kubernetes | Bash
+Linux | Python | HTML | CSS | JavaScript
+React | Node.js | MySQL | Git 
 ```
 
 ---
