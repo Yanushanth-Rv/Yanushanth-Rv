@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yanushanth-Rv/Yanushanth-Rv/main/banner-network-engineer.png" alt="Network Engineer Banner" />
+</p>
+
 ### Hi there, I'm Yanushanth! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
 
 🚀 **Aspiring Cybersecurity & Network Engineer** | Open-Source Enthusiast | Web & App Developer  
@@ -5,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Networking;Linux+%7C+Python+%7C+Cloud+Security;Web+%26+App+Development+Enthusiast;Passionate+about+Open-Source+and+Ethical+Hacking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Networking+%7C+Linux+%7C+Python+%7C+Cloud+Security;Web+%26+App+Development+Enthusiast;Passionate+about+Open-Source+and+Ethical+Hacking" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,32 +44,13 @@ TailwindCSS | PHP | MySQL | Git | Docker | Kubernetes | Bash
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yanushanth-Rv&theme=graywhite" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanushanth-Rv&theme=github-light" />
-</p>
-
 ---
 
-### 🎯 GitHub Trophies
+### 📌 Contributions & Snake Animation
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yanushanth-Rv&theme=gruvbox&no-frame=true&margin-w=15" />
+  <img src="https://github.com/Yanushanth-Rv/Yanushanth-Rv/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-- 🔐 **Cybersecurity Lab** - Hands-on penetration testing & security research
-- 🌐 **Web App Security** - Developing secure full-stack applications
-- 📱 **Mobile App Development** - Experimenting with cross-platform frameworks
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YouTube Cards -->
-[![YouTube](https://github-readme-youtube-stats.vercel.app/api/video?channel=UC-YOUR-CHANNEL-ID&layout=compact&theme=light)](https://www.youtube.com/channel/UC-YOUR-CHANNEL-ID)
 
 ---
 
